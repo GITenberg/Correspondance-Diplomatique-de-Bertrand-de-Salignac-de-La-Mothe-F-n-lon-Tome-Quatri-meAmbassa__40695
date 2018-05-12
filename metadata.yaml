@@ -1,0 +1,37 @@
+_repo: Correspondance-Diplomatique-de-Bertrand-de-Salignac-de-La-Mothe-F-n-lon-Tome-Quatri-meAmbassa__40695
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40695-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Salignac, Bertrand de, seigneur de La Mothe-Fénelon, active 16th century
+    aliases:
+    - Fénelon, Bertrand de Salignac de La Mothe
+    - La Mothe-Fénelon, Bertrand de Salignac, seigneur de
+    - Fénélon, Bertrand de Salignac de la Motte
+    - Fénélon, Bertrand de Salignac de la Mothe
+    - Fénelon, Bertrand de Salignac, seigneur de la Mothe
+    - Fenelon, Bertrand de Salignac, seigneur de la Mothe
+    gutenberg_agent_id: '39892'
+    url: http://www.gutenberg.org/2009/agents/39892
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2012-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40695'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Foreign relations -- Great Britain'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Charles IX, 1560-1574 -- Sources'
+- !lcsh 'Great Britain -- Foreign relations -- France'
+title: 'Correspondance Diplomatique de Bertrand de Salignac de La Mothe Fénélon, Tome
+  Quatrième
+
+  Ambassadeur de France en Angleterre de 1568 à 1575'
+url: http://www.gutenberg.org/ebooks/40695
